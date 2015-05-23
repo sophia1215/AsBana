@@ -19,13 +19,19 @@
 
 <!-- Content wrapped in container -->
 <div class="container">
+	<% flash.each do |key, value| %>
+		<div class="alert alert-<%= key %>"><%= value %></div>
+	<% end %>
 	<%= yield %>
+
 	<!-- New footer -->
 	<footer class="footer">
 		<small>
 			<a href="codecamp.io">AsBana</a>
 		</small>
 	</footer>
+	
+
 	<!-- Debugging footer -->
 	<%= debug(params) if Rails.env.development? %>
 
