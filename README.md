@@ -49,5 +49,10 @@ Please feel free to use a different markup language if you do not plan to run
 > 快馬 在江湖裡廝殺
 > 無非 是名跟利放不下
 > 心中有江山的人豈能快意瀟灑
->我只求與妳共　華髮
+> 我只求與妳共　華髮
+
+### Crazy good software
+* Rapid development
++ Tested
+- 24/7 support
 
