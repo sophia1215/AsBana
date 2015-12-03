@@ -29,3 +29,5 @@ Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
 ### Just to test
+---
+[秦時明月](http://example.com/)
