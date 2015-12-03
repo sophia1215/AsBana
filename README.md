@@ -75,3 +75,6 @@ alert('Hello syntax highlighting.');
 2. Precision
 3. Performance
 
+![圖片測試](http://topcreativeproducts.com/wordpress/wp-content/uploads/2013/04/20130421053131.jpg "圖片測試")
+
+
