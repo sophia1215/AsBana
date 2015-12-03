@@ -47,7 +47,7 @@ Please feel free to use a different markup language if you do not plan to run
 > ~~閒雲~~ ~~野鶴~~ ~~古剎~~
 
 > 快馬 在江湖裡廝殺
-> 無非 是名跟利放不下
+> `無非 是'名'跟'利'放不下`
 > 心中有江山的人豈能快意瀟灑
 > 我只求與妳共　華髮
 
@@ -55,4 +55,14 @@ Please feel free to use a different markup language if you do not plan to run
 * Rapid development
 + Tested
 - 24/7 support
+
+**Hello** `world`.
+
+```javascript
+alert('Hello syntax highlighting.');
+```
+### Reasons to choose us
+1.Price
+2.Precision
+3.Performance
 
