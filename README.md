@@ -70,3 +70,8 @@ alert('Hello syntax highlighting.');
 任武林誰領風騷我卻　只為妳　折腰
 過荒村野橋　尋世外　古道
 ```
+### Reasons to choose us
+1. Price
+2. Precision
+3. Performance
+
